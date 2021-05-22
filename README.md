@@ -11,7 +11,7 @@ Treasurer: Matt Wiegandt (wieganmw@mail.uc.edu)
 ## Advisors
 Faculty Advisor: Dr Muthar al-Ubaidi (alubaimr@ucmail.uc.edu)  
 Mechanical Advisor: Dr Alex Wouden (woudenam@ucmail.uc.edu)  
-Electrical Advisor: Moncef Tayahi (tayahimb@ucmail.uc.edu)  
+Electrical Advisor: Dr Moncef Tayahi (tayahimb@ucmail.uc.edu)  
 
 ----------------------------------------------------------------------------------------------
 [campuslink](url)     [instagram](url)      [facebook](url)     ucbearcatsolarcar@gmail.com
