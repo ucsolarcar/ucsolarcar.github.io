@@ -1,6 +1,6 @@
 # Bearcat Solar Car
 
-Bearcat Solar Car is a student team from the University of Cincinnati competing in the [American Solar Challenge](url). 
+Bearcat Solar Car is a student team from the University of Cincinnati competing in the [American Solar Challenge](https://www.americansolarchallenge.org/). 
 
 ## 2021-2022 Exec Board:
 President: Michael Brassfield (brassfmr@mail.uc.edu)  
@@ -14,6 +14,6 @@ Mechanical Advisor: Dr Alex Wouden (woudenam@ucmail.uc.edu)
 Electrical Advisor: Dr Moncef Tayahi (tayahimb@ucmail.uc.edu)  
 
 ----------------------------------------------------------------------------------------------
-[campuslink](url)     [instagram](url)      [facebook](url)     ucbearcatsolarcar@gmail.com
+[campuslink](https://campuslink.uc.edu/organization/ucsolarcar)     [instagram](https://www.instagram.com/ucsolarcar/)      [facebook](https://www.facebook.com/ucsolarcar)     ucbearcatsolarcar@gmail.com
 
 updated: May 2021
