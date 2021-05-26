@@ -5,8 +5,8 @@ Bearcat Solar Car is a student team from the University of Cincinnati competing 
 ## 2021-2022 Exec Board:
 President: Michael Brassfield (brassfmr@mail.uc.edu)  
 Mechanical Lead: Ayaaz Yasin (yasinaz@mail.uc.edu)  
-Electrical Lead: Joshua Bitner (bitnerjp@mail.uc.edu)
-Electrical Co-Lead: Nicholas Haehn (haehnna@mail.uc.edu)
+Electrical Lead: Joshua Bitner (bitnerjp@mail.uc.edu)  
+Electrical Co-Lead: Nicholas Haehn (haehnna@mail.uc.edu)  
 Treasurer: Matt Wiegandt (wieganmw@mail.uc.edu)  
 
 ## Advisors
