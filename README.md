@@ -14,7 +14,7 @@ Faculty Advisor: Dr Muthar al-Ubaidi (alubaimr@ucmail.uc.edu)
 Mechanical Advisor: Dr Alex Wouden (woudenam@ucmail.uc.edu)  
 Electrical Advisor: Dr Moncef Tayahi (tayahimb@ucmail.uc.edu)  
 
-[2021-2020 Sponsorship Package](https://github.com/ucsolarcar/ucsolarcar.github.io/raw/main/sponsor-pack.pdf)
+[2021-2022 Sponsorship Package](https://github.com/ucsolarcar/ucsolarcar.github.io/raw/main/sponsor-pack.pdf)
 
 ----------------------------------------------------------------------------------------------
 [campuslink](https://campuslink.uc.edu/organization/ucsolarcar)     [instagram](https://www.instagram.com/ucsolarcar/)      [facebook](https://www.facebook.com/ucsolarcar)     ucbearcatsolarcar@gmail.com
