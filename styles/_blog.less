@@ -1,0 +1,91 @@
+/* Blog */
+#blogTable {
+  .blog-post {
+    h2.blog-title a {
+      color: #3e3e3e;
+      text-decoration: none;
+    }
+
+    h2 {
+      font-size: 20px;
+      margin: 10px 0;
+      color: #888888;
+    }
+
+    .blog-date {
+      display: inline;
+      float: none;
+      text-align: center;
+    }
+
+    .blog-date .date-text {
+      float: none;
+    }
+
+    .blog-comments {
+      display: inline;
+      float: none;
+      text-align: center;
+    }
+
+    .blog-comments,
+    .blog-comments-bottom {
+      a {
+        .linklist-style;
+      }
+    }
+
+    .blog-separator {
+      margin: 20px 0 25px;
+    }
+  }
+
+  .blog-sidebar {
+    h2 {
+      margin-bottom: 10px;
+    }
+
+    p {
+      margin-bottom: 20px;
+    }
+
+    a {
+      .linklist-style;
+    }
+  }
+}
+
+#commentPostDiv .field input[type=text],
+#commentPostDiv .field textarea {
+  padding: 8px 12px;
+  background: transparent;
+}
+
+#commentSubmit {
+  .transition(all 300ms ease);
+  height: auto;
+  padding: 8px 12px;
+  background: #333333;
+  color: #ffffff;
+  border: 2px solid #333333;
+  border-radius: 1px;
+  text-transform: uppercase;
+  white-space: normal;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: normal;
+}
+
+#commentSubmit span {
+  background: none;
+}
+
+#commentSubmit:hover {
+  background: #ffffff;
+  color: #333333;
+  border: 2px solid #333333;
+}
+
+.blogCommentReplyWrapper iframe {
+  height: 500px;
+}
